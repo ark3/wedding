@@ -14,23 +14,23 @@ Join us in the lovely Hudson Valley region of New York, where beautiful scenery 
 <table style="width:100%;">
   <tr>
     <td style="width:60%;">Baraat (Procession)</td>
-    <td style="text-align:right;">3:30 PM</td>
-    <td style="text-align:right;">4:00 PM</td>
+    <td style="text-align:right;">3:30&nbsp;<small>PM</small></td>
+    <td style="text-align:right;">4:00&nbsp;<small>PM</small></td>
   </tr>
   <tr>
     <td>Ceremony</td>
-    <td style="text-align:right;">4:00 PM</td>
-    <td style="text-align:right;">5:00 PM</td>
+    <td style="text-align:right;">4:00&nbsp;<small>PM</small></td>
+    <td style="text-align:right;">5:00&nbsp;<small>PM</small></td>
   </tr>
   <tr>
     <td>Cocktails & Hors D'oeuvres</td>
-    <td style="text-align:right;">5:00 PM</td>
-    <td style="text-align:right;">6:30 PM</td>
+    <td style="text-align:right;">5:00&nbsp;<small>PM</small></td>
+    <td style="text-align:right;">6:30&nbsp;<small>PM</small></td>
   </tr>
   <tr>
     <td>Reception with Dinner & Dancing</td>
-    <td style="text-align:right;">6:30 PM</td>
-    <td style="text-align:right;">11:30 PM</td>
+    <td style="text-align:right;">6:30&nbsp;<small>PM</small></td>
+    <td style="text-align:right;">11:30&nbsp;<small>PM</small></td>
   </tr>
 </table>
 <p/>
@@ -42,8 +42,8 @@ All wedding day festivities will be at New York Country Club. A complimentary sh
 <p/><table style="width:100%;">
   <tr>
     <td style="width:60%;">Post-Wedding Brunch</td>
-    <td style="text-align:right;">9:00 AM</td>
-    <td style="text-align:right;">12:00 PM</td>
+    <td style="text-align:right;">9:00&nbsp;<small>AM</small></td>
+    <td style="text-align:right;">12:00&nbsp;<small>PM</small></td>
   </tr>
 </table><p/>
 
