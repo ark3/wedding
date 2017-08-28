@@ -84,7 +84,7 @@ url: "https://abhaylovesabby.com" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/ark3/wedding"
 email: "ark3@email.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+avatarurl: "https://www.gravatar.com/avatar/52166b431d8fff5f58ec554f7cea8ab1" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 8. Site navigation
 navigation_header:
