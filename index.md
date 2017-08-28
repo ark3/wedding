@@ -1,0 +1,89 @@
+---
+title: Abhay loves Abby
+feature_image: "/assets/std_slice.jpg"
+---
+We're getting married on October 21, 2017!
+
+## Events
+
+Join us in the lovely Hudson Valley region of New York, where beautiful scenery and lovely foliage await you. Rockland County is easily accessible via I-287, the Palisades Parkway, and the New York Thruway.
+
+##### Saturday, October 21, 2017
+
+<p/>
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%;">Baraat (Procession)</td>
+    <td style="text-align:right;">3:30 PM</td>
+    <td style="text-align:right;">4:00 PM</td>
+  </tr>
+  <tr>
+    <td>Ceremony</td>
+    <td style="text-align:right;">4:00 PM</td>
+    <td style="text-align:right;">5:00 PM</td>
+  </tr>
+  <tr>
+    <td>Cocktails & Hors D'oeuvres</td>
+    <td style="text-align:right;">5:00 PM</td>
+    <td style="text-align:right;">6:30 PM</td>
+  </tr>
+  <tr>
+    <td>Reception with Dinner & Dancing</td>
+    <td style="text-align:right;">6:30 PM</td>
+    <td style="text-align:right;">11:30 PM</td>
+  </tr>
+</table>
+<p/>
+
+All wedding day festivities will be at New York Country Club. A complimentary shuttle will be provided to transport guests between the Crowne Plaza and New York Country Club before the ceremony and after the reception. There is plenty of parking as well if you prefer to drive.
+
+##### Sunday, October 22, 2017
+
+<p/><table style="width:100%;">
+  <tr>
+    <td style="width:60%;">Post-Wedding Brunch</td>
+    <td style="text-align:right;">9:00 AM</td>
+    <td style="text-align:right;">12:00 PM</td>
+  </tr>
+</table><p/>
+
+We will be serving brunch at the Crowne Plaza on Sunday morning. Join us for a tasty gathering before the journey home.
+
+## Hotel
+
+We encourage you to stay at the Crowne Plaza in Suffern, NY. Call [845-943-4516][callhotel] _during normal business hours_ to reserve rooms in the Oelker-Saxena Wedding Block at a discounted rate.
+
+[Crowne Plaza][hotel]  
+3 Executive Blvd  
+Suffern, NY 10901  
+[845-943-4516][callhotel]  
+  
+[(Google Maps)][hotelmap]
+
+[hotel]: http://www.cpsuffernhotel.co/
+[callhotel]: tel:845-943-4516
+[hotelmap]: https://goo.gl/maps/Hf7GX74yqZ22
+
+## Venue
+
+All wedding day events will take place at the spectacular New York Country Club in New Hempstead, NY.
+
+[New York Country Club][venue]  
+103 Brick Church Road  
+New Hempstead, NY 10977  
+845-362-5800  
+  
+[(Google Maps)][venuemap]
+
+[venue]: http://www.nycountryclub.com
+[venuemap]: https://goo.gl/maps/mHDG8eskFQ42
+
+## Where's your wedding registry?
+
+... about that. Please don't bring boxed gifts. As most of you are aware, we recently merged two apartments into one. And it’s _full_. In addition, we will not have room in the car to transport boxed gifts along with us on our mini-moon trip. However, we will have space for cards. 😉
+
+<small>
+**Note**: Violators of this policy will be in charge of buying drinks at the after-party.
+</small>
+
+[baraat]: https://www.youtube.com/watch?v=faUqPAYjAaQ
