@@ -1,6 +1,6 @@
 ---
 title: Abhay loves Abby
-feature_image: "/assets/std_slice.jpg"
+feature_image: "/assets/AbhayAndAbby.jpg"
 ---
 We're getting married on October 21, 2017!
 
