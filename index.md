@@ -80,7 +80,7 @@ New Hempstead, NY 10977
 
 ## Where's your wedding registry?
 
-... about that. Please don't bring boxed gifts. As most of you are aware, we recently merged two apartments into one. And it’s _full_. In addition, we will not have room in the car to transport boxed gifts along with us on our mini-moon trip. However, we will have space for cards. 😉
+... about that. We don't have one. We'd appreciate it if you didn't bring boxed gifts. As most of you are aware, we recently merged two apartments into one. And it’s _full_. In addition, we will not have room in the car to transport boxed gifts along with us on our mini-moon trip. However, we will have space for cards. 😉
 
 <small>
 **Note**: Violators of this policy will be in charge of buying drinks at the after-party.
