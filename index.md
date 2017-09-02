@@ -35,7 +35,7 @@ Join us in the lovely Hudson Valley region of New York, where beautiful scenery 
 </table>
 <p/>
 
-All wedding day festivities will be at New York Country Club. A complimentary shuttle will be provided to transport guests between the Crowne Plaza and New York Country Club before the ceremony and after the reception. There is plenty of parking as well if you prefer to drive.
+All wedding day festivities will be at New York Country Club.* A complimentary shuttle will be provided to transport guests between the Crowne Plaza and New York Country Club before the ceremony and after the reception (stay tuned for more details soon). There is plenty of parking as well if you prefer to drive.
 
 ##### Sunday, October 22, 2017
 
@@ -78,12 +78,24 @@ New Hempstead, NY 10977
 [venue]: http://www.nycountryclub.com
 [venuemap]: https://goo.gl/maps/mHDG8eskFQ42
 
+## Travel
+
+If you plan on flying, take a look at the [nearby airports][airports]. We recommend flying into [Newark Airport (EWR)][EWR]. It is the closest major airport that doesn't require you to sit through bridge/tunnel traffic.
+
+Although you can take a $45 cab ride from EWR to Suffern, you may be better off [renting a car][rent]. As mentioned above, we will provide transportation between the hotel and the venue before/after the wedding day events. 
+
+
+[airports]: https://www.travelmath.com/nearest-airport/Rockland+County,+NY
+[EWR]: http://www.panynj.gov/airports/newark-liberty.html
+[rent]: https://www.panynj.gov/airports/ewr-car-rental.html
+
+
 ## Where's your wedding registry?
 
 ... about that. We don't have one. We'd appreciate it if you didn't bring boxed gifts. As most of you are aware, we recently merged two apartments into one. And it’s _full_. In addition, we will not have room in the car to transport boxed gifts along with us on our mini-moon trip. However, we will have space for cards. 😉
 
 <small>
-**Note**: Violators of this policy will be in charge of buying drinks at the after-party.
+&#42; **Note**: Violators of this policy will be in charge of buying drinks at the after-party (private bar at the Crowne Plaza!).
 </small>
 
 [baraat]: https://www.youtube.com/watch?v=faUqPAYjAaQ
