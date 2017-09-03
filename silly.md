@@ -1,7 +1,7 @@
 ---
 title: Abhay loves Abby
 ---
-We have taken some whisks.
+Don't be afraid to take whisks!
 
 ![](/assets/silly/whisk-1.jpg)
 
@@ -9,14 +9,14 @@ We have taken some whisks.
 
 ![](/assets/silly/whisk-3.jpg)
 
-We conquered some slopes.
+Nous sommes les champions, eh?
 
 ![](/assets/silly/champions.jpg)
 
-We keep it cool.
+Danger Zone!
 
 ![](/assets/silly/aviators.jpg)
 
-We live as royalty.
+You're the _herp_ to my _derp_.
 
 ![](/assets/silly/king.jpg)
