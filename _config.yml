@@ -93,6 +93,7 @@ navigation_header:
   Hotel: "/#hotel"
   Venue: "/#venue"
   Registry: "/#wheres-your-wedding-registry"
+  Silly: "/silly"
 
 navigation_footer:
   October 21, 2017: https://abhaylovesabby.com
