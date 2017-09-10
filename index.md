@@ -90,6 +90,10 @@ Although you can take a $45 cab ride from EWR to Suffern, you may be better off 
 [rent]: https://www.panynj.gov/airports/ewr-car-rental.html
 
 
+### Need a hotel or travel buddy?
+
+[Email Abhay](mailto:ark3@email.com) and we'll try to sync you up.
+
 ## Where's your wedding registry?
 
 ... about that. We don't have one. We'd appreciate it if you didn't bring boxed gifts. As most of you are aware, we recently merged two apartments into one. And it’s _full_. In addition, we will not have room in the car to transport boxed gifts along with us on our mini-moon trip. However, we will have space for cards. 😉
