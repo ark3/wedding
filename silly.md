@@ -20,3 +20,9 @@ Danger Zone!
 You're the _herp_ to my _derp_.
 
 ![](/assets/silly/king.jpg)
+
+Presented without comment...
+
+![](/assets/silly/dc1.jpg)
+
+![](/assets/silly/dc2.jpg)
