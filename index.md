@@ -8,41 +8,67 @@ We're getting married on October 21, 2017!
 
 Join us in the lovely Hudson Valley region of New York, where beautiful scenery and lovely foliage await you. Rockland County is easily accessible via I-287, the Palisades Parkway, and the New York Thruway.
 
-##### Saturday, October 21, 2017
+#### Saturday, October 21, 2017
 
 <p/>
+<style>
+  td {
+    vertical-align: top;
+    line-height: 1.6rem;
+    padding-bottom: 5px;
+  }
+</style>
 <table style="width:100%;">
   <tr>
-    <td style="width:60%;">Baraat (Procession)</td>
+    <td><small>One bus goes from the Crowne Plaza to NYCC</small></td>
+    <td style="text-align:right;">2:45&nbsp;<small>PM</small></td>
+  </tr>
+  <tr>
+    <td><small>Two more buses go from the Crowne Plaza to NYCC</small></td>
+    <td style="text-align:right;">3:00&nbsp;<small>PM</small></td>
+  </tr>
+  <tr>
+    <td><b>Baraat</b> (Procession)</td>
     <td style="text-align:right;">3:30&nbsp;<small>PM</small></td>
+  </tr>
+  <tr>
+    <td><b>Ceremony</b></td>
     <td style="text-align:right;">4:00&nbsp;<small>PM</small></td>
   </tr>
   <tr>
-    <td>Ceremony</td>
-    <td style="text-align:right;">4:00&nbsp;<small>PM</small></td>
+    <td><b>Cocktails & Hors D'oeuvres</b></td>
     <td style="text-align:right;">5:00&nbsp;<small>PM</small></td>
   </tr>
   <tr>
-    <td>Cocktails & Hors D'oeuvres</td>
-    <td style="text-align:right;">5:00&nbsp;<small>PM</small></td>
+    <td><b>Reception with Dinner & Dancing</b></td>
     <td style="text-align:right;">6:30&nbsp;<small>PM</small></td>
   </tr>
   <tr>
-    <td>Reception with Dinner & Dancing</td>
-    <td style="text-align:right;">6:30&nbsp;<small>PM</small></td>
+    <td><small>One bus goes from NYCC to the Crowne Plaza</small></td>
+    <td style="text-align:right;">10:30&nbsp;<small>PM</small></td>
+  </tr>
+  <tr>
+    <td><small>One bus goes from NYCC to the Crowne Plaza</small></td>
+    <td style="text-align:right;">11:00&nbsp;<small>PM</small></td>
+  </tr>
+  <tr>
+    <td><small>Last bus goes from NYCC to the Crowne Plaza</small></td>
     <td style="text-align:right;">11:30&nbsp;<small>PM</small></td>
   </tr>
 </table>
 <p/>
 
-All wedding day festivities will be at New York Country Club.* A complimentary shuttle will be provided to transport guests between the Crowne Plaza and New York Country Club before the ceremony and after the reception (stay tuned for more details soon). There is plenty of parking as well if you prefer to drive.
+All wedding day festivities will be at New York Country Club.* A complimentary shuttle will be provided to transport guests between the Crowne Plaza and New York Country Club before the ceremony and after the reception (see shuttle bus times in the schedule above). There is plenty of parking as well if you prefer to drive.
 
-##### Sunday, October 22, 2017
+#### Sunday, October 22, 2017
 
 <p/><table style="width:100%;">
   <tr>
-    <td style="width:60%;">Post-Wedding Brunch</td>
+    <td><b>Post-Wedding Brunch</b></td>
     <td style="text-align:right;">9:00&nbsp;<small>AM</small></td>
+  </tr>
+  <tr>
+    <td><b>Newlyweds Sendoff</b></td>
     <td style="text-align:right;">12:00&nbsp;<small>PM</small></td>
   </tr>
 </table><p/>
