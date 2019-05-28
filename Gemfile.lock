@@ -1,14 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (4.2.10)
+    activesupport (4.2.11.1)
       i18n (~> 0.7)
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
-    alembic-jekyll-theme (2.2.4)
+    alembic-jekyll-theme (2.2.5)
       jekyll (~> 3.4)
       jekyll-default-layout (~> 0.1)
       jekyll-feed (~> 0.9)
@@ -19,14 +19,14 @@ GEM
       jekyll-sitemap (~> 0.13)
       jemoji (~> 0.8)
     colorator (1.1.0)
-    concurrent-ruby (1.0.5)
+    concurrent-ruby (1.1.5)
     ffi (1.11.1)
     forwardable-extended (2.6.0)
-    gemoji (3.0.0)
-    html-pipeline (2.7.1)
+    gemoji (3.0.1)
+    html-pipeline (2.11.0)
       activesupport (>= 2)
       nokogiri (>= 1.4)
-    i18n (0.9.0)
+    i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     jekyll (3.6.0)
       addressable (~> 2.4)
@@ -71,7 +71,7 @@ GEM
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
     mini_portile2 (2.4.0)
-    minitest (5.10.3)
+    minitest (5.11.3)
     nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
     pathutil (0.16.2)
@@ -89,14 +89,14 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     thread_safe (0.3.6)
-    tzinfo (1.2.3)
+    tzinfo (1.2.5)
       thread_safe (~> 0.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  alembic-jekyll-theme (~> 2.1)
+  alembic-jekyll-theme (~> 2.2)
   jekyll (~> 3.4)
   jekyll-feed
   jekyll-mentions
